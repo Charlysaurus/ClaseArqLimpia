@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Libreria.Presentation.Controllers.LibreriaController",
+    "Method": "Create",
+    "RelativePath": "api/Libreria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Libreria.Data.DTOs.GuardaLibroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libreria.Presentation.Controllers.LibreriaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Libreria/libros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libreria.Presentation.Controllers.LibreriaController",
+    "Method": "GetAvailableRooms",
+    "RelativePath": "api/Libreria/librosautor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombreAutor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
