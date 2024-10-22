@@ -1,4 +1,5 @@
 ﻿using Libreria.Business.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Libreria.Data.Repositories
 {
@@ -20,7 +21,7 @@ namespace Libreria.Data.Repositories
         public List<Libro> BuscarLibrosPorAutor(string nombreAutor)
         {
             
-            var result = _dbContext.Libros.ToList().Where(x => x.Autor.Nombre == nombreAutor).ToList();
+            var result = _dbContext.Libros.Include(t => t.Autor).ToList().Where(x => x.Autor.Nombre == nombreAutor).ToList();
             if (result != null)
             {
                 return result;

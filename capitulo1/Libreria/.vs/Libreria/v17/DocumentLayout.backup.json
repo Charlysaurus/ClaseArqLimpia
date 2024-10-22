@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\business\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\business\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\presentation\\controllers\\libreriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\presentation\\controllers\\libreriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\business\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\business\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\data\\dtos\\guardalibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\business\\services\\buscalibroserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\business\\services\\buscalibroserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\business\\services\\ibuscalibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\business\\services\\ibuscalibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|c:\\users\\netec\\desktop\\proectoscurso\\capitulo1\\libreria\\libreria\\business\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75134848-FEB6-4844-AFF8-80697F93C6E9}|Libreria\\Libreria.csproj|solutionrelative:libreria\\business\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,46 +54,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Entities\\Libro.cs",
+              "RelativeDocumentMoniker": "Libreria\\Business\\Entities\\Libro.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Entities\\Libro.cs",
+              "RelativeToolTip": "Libreria\\Business\\Entities\\Libro.cs",
+              "ViewState": "AgIAAAsAAADAMjMzMzMQwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:13:38.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LibreriaController.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Presentation\\Controllers\\LibreriaController.cs",
               "RelativeDocumentMoniker": "Libreria\\Presentation\\Controllers\\LibreriaController.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Presentation\\Controllers\\LibreriaController.cs",
               "RelativeToolTip": "Libreria\\Presentation\\Controllers\\LibreriaController.cs",
-              "ViewState": "AgIAAA0AAACAk5mZmZn5vyIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAaGZmZmYEwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:47:54.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:47:54.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "Libreria\\Data\\AppDBContext.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Data\\AppDBContext.cs",
               "RelativeToolTip": "Libreria\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAABcAAABAAgAAAMAqwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:46:59.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:46:59.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Program.cs",
               "RelativeDocumentMoniker": "Libreria\\Program.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Program.cs",
               "RelativeToolTip": "Libreria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:45:20.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:45:20.502Z"
             },
             {
               "$type": "Document",
@@ -101,12 +114,11 @@
               "RelativeToolTip": "Libreria\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T20:44:00.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:44:00.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GuardaLibroDTO.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Data\\DTOs\\GuardaLibroDTO.cs",
               "RelativeDocumentMoniker": "Libreria\\Data\\DTOs\\GuardaLibroDTO.cs",
@@ -114,25 +126,24 @@
               "RelativeToolTip": "Libreria\\Data\\DTOs\\GuardaLibroDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:32:00.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:32:00.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "LibroRepository.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Data\\Repositories\\LibroRepository.cs",
               "RelativeDocumentMoniker": "Libreria\\Data\\Repositories\\LibroRepository.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Data\\Repositories\\LibroRepository.cs",
               "RelativeToolTip": "Libreria\\Data\\Repositories\\LibroRepository.cs",
-              "ViewState": "AgIAAAcAAAAgzczMzMwfwCIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:03:49.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Data\\Repositories\\AutorRepository.cs",
               "RelativeDocumentMoniker": "Libreria\\Data\\Repositories\\AutorRepository.cs",
@@ -140,38 +151,11 @@
               "RelativeToolTip": "Libreria\\Data\\Repositories\\AutorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:03:35.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:03:35.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BuscaLibroServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
-              "RelativeDocumentMoniker": "Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
-              "RelativeToolTip": "Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:01:40.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IBuscaLibroService.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\IBuscaLibroService.cs",
-              "RelativeDocumentMoniker": "Libreria\\Business\\Services\\IBuscaLibroService.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\IBuscaLibroService.cs",
-              "RelativeToolTip": "Libreria\\Business\\Services\\IBuscaLibroService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:39:32.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Entities\\Autor.cs",
               "RelativeDocumentMoniker": "Libreria\\Business\\Entities\\Autor.cs",
@@ -179,8 +163,31 @@
               "RelativeToolTip": "Libreria\\Business\\Entities\\Autor.cs",
               "ViewState": "AgIAAAIAAACGZmZmZuYswAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:30:34.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:30:34.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuscaLibroServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
+              "RelativeDocumentMoniker": "Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
+              "RelativeToolTip": "Libreria\\Business\\Services\\BuscaLibroServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:01:40.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBuscaLibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\IBuscaLibroService.cs",
+              "RelativeDocumentMoniker": "Libreria\\Business\\Services\\IBuscaLibroService.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\capitulo1\\Libreria\\Libreria\\Business\\Services\\IBuscaLibroService.cs",
+              "RelativeToolTip": "Libreria\\Business\\Services\\IBuscaLibroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:39:32.195Z"
             }
           ]
         }
