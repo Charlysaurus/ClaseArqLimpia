@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\presentacion\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\presentacion\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\business\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\business\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\data\\dtos\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\data\\dtos\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\data\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\data\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\business\\services\\dogserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\business\\services\\dogserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\business\\services\\idosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\business\\services\\idosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|c:\\users\\netec\\desktop\\proectoscurso\\microservicioperros\\microservicioperros\\microservicioperros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75C37FDA-0A15-4B6B-95C9-2DC4EF093C90}|MicroservicioPerros\\MicroservicioPerros.csproj|solutionrelative:microservicioperros\\microservicioperros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDosService.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Business\\Services\\IDosService.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Business\\Services\\IDosService.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Business\\Services\\IDosService.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Business\\Services\\IDosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:05:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DogDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Data\\DTOs\\DogDTO.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Data\\DTOs\\DogDTO.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Data\\DTOs\\DogDTO.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Data\\DTOs\\DogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:01:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Program.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Program.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Program.cs",
+              "ViewState": "AgIAABYAAADAmZmZmRkwwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:04:58.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\appsettings.json",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\appsettings.json",
+              "RelativeToolTip": "MicroservicioPerros\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T18:00:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Data\\Repositories\\DogRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Data\\Repositories\\DogRepository.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Data\\Repositories\\DogRepository.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Data\\Repositories\\DogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:59:02.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:48:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Business\\Entities\\Dog.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Business\\Entities\\Dog.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Business\\Entities\\Dog.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Business\\Entities\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:44:24.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Presentacion\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Presentacion\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Presentacion\\Controllers\\DogController.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Presentacion\\Controllers\\DogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:17:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DogServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Business\\Services\\DogServiceImpl.cs",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\Business\\Services\\DogServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\Business\\Services\\DogServiceImpl.cs",
+              "RelativeToolTip": "MicroservicioPerros\\Business\\Services\\DogServiceImpl.cs",
+              "ViewState": "AgIAABQAAAAAZmZmZmYLwCgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:06:04.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MicroservicioPerros",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\MicroservicioPerros.csproj",
+              "RelativeDocumentMoniker": "MicroservicioPerros\\MicroservicioPerros.csproj",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MicroservicioPerros\\MicroservicioPerros\\MicroservicioPerros.csproj",
+              "RelativeToolTip": "MicroservicioPerros\\MicroservicioPerros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T17:40:09.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
