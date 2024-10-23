@@ -38,8 +38,7 @@
               "RelativeToolTip": "MVVMApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:47:39.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:47:39.689Z"
             },
             {
               "$type": "Document",
@@ -47,9 +46,9 @@
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MVVMApp\\MVVMApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "MVVMApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MVVMApp\\MVVMApp\\Components\\Pages\\Home.razor*",
-              "RelativeToolTip": "MVVMApp\\Components\\Pages\\Home.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MVVMApp\\MVVMApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MVVMApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-22T21:44:08.436Z",
               "EditorCaption": ""
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "MVVMApp\\ViewModel\\ClockViewModel.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MVVMApp\\MVVMApp\\ViewModel\\ClockViewModel.cs",
               "RelativeToolTip": "MVVMApp\\ViewModel\\ClockViewModel.cs",
-              "ViewState": "AgIAAAgAAAAANDMzMzP9vxIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAADQmZmZmVkrwAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T21:35:35.879Z",
               "EditorCaption": ""
@@ -70,15 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MVVMApp",
+              "Title": "MVVMApp.csproj",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MVVMApp\\MVVMApp\\MVVMApp.csproj",
               "RelativeDocumentMoniker": "MVVMApp\\MVVMApp.csproj",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proectosCurso\\MVVMApp\\MVVMApp\\MVVMApp.csproj",
               "RelativeToolTip": "MVVMApp\\MVVMApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T21:35:29.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:35:29.66Z"
             }
           ]
         }

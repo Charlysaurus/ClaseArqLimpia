@@ -8,10 +8,13 @@ namespace MVVMApp.ViewModel
 
         public string CurrentTime { get; set; } = DateTime.Now.ToString("hh:mm:ss");
 
+        public string Name { get; set; }
+
         public ClockViewModel()
         {
             timmer = new System.Timers.Timer(1000);
             timmer.Elapsed += UpdateTime;
+            timmer.Start();
         }
 
         public void UpdateTime(object sender, ElapsedEventArgs args) 

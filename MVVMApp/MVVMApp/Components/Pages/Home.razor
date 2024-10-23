@@ -1,11 +1,13 @@
 ﻿@using ViewModel;
 @page "/"
 @inject ClockViewModel ViewModel;
+@rendermode InteractiveServer
 <PageTitle>Home</PageTitle>
 
 <h1>Reloj digital ViewModel</h1>
-<h1>@ViewModel.CurrentTime</h1>
-
+<h2>@ViewModel.CurrentTime</h2>
+<input @bind-value="ViewModel.Name"/>
+<h1>Hola @ViewModel.Name</h1>
 @code
 {
     protected override void OnInitialized()
